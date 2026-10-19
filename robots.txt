@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://0cmlabs.com/sitemap.xml
+Sitemap: https://zcmlabs.in/sitemap.xml
